@@ -1,0 +1,14 @@
+body {
+font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: #545454;
+}
+
+hr {
+border-style: dotted none none;
+size: 5px;
+width: 10%;
+border-width: 7px;
+border-color: #EAE3D2;
+}
